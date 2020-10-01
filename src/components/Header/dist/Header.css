@@ -1,0 +1,8 @@
+.logo {
+  width: 50px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+}

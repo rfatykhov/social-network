@@ -1,0 +1,13 @@
+.logo {
+  width: 50px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+}
+
+.header {
+  grid-area: header;
+  background-color: yellow;
+}
